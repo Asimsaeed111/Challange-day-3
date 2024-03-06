@@ -1,0 +1,10 @@
+console.log(5 + 3);
+console.log(12 - 4);
+console.log(16 / 2);
+console.log(2 * 4);
+var myfavoritenumber = 41;
+console.log("my favorite number is ".concat(myfavoritenumber));
+var massage = "my favorite number is ".concat(myfavoritenumber);
+console.log(massage);
+var newmassage = "".concat(myfavoritenumber, " is my favt number");
+console.log(newmassage);
